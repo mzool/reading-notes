@@ -4,7 +4,7 @@
 ## It use an elements each one of them has an opining tag and closing tag for example <h> this one is opining tag and this one is closing tag </h>, Tags act like containers. They tell something about the  information that between open tag and closing tag.
 
 # Tags:
-## To write a tag start with left angle bracket "<" then write the charachter, then right angle breacket ">". For closing tag put "/" before the charachter.
+## To write a tag start with left angle braket "<" then write the character, then right angle breaket ">". For closing tag put "/" before the character.
 
 # Attributes:
 ## Give additional about the contents in the tags.
@@ -27,27 +27,27 @@
 
 # Chapter 8:
 
-## Doctype: because ther are several version of html, then we need to tell the browser wich one we use for example we write  \<!DOCTYPE html> one the top of the page.
+## Doctype: because there are several version of html, then we need to tell the browser which one we use for example we write  \<!DOCTYPE html> one the top of the page.
 
  html element|work
  ----  | ---        
  \<!-- -->| add comment
   ID attribute| give special identity for the element
-  class attribute| give special identity for groube of elements
-  block elements| start in the begining of lines always
-  inline elements| continue in the same line of their neighbouring
-  div| group a several elements in one bloch
-  span| inline element that differntiate a part of elements from the other or to contains numbers
+  class attribute| give special identity for group of elements
+  block elements| start in the beggining of lines always
+  inline elements| continue in the same line of their neighboring
+  div| group a several elements in one block
+  span| inline element that differentiate a part of elements from the other or to contains numbers
   ifram| to put a window in the page like maps
   meta| in the head element, contains information about the page
-  description| descripe the page
+  description| describe the page
 
  
   
 # Chapter 17 :
 # HTML5:
 + ## html5 introduces a new set of elements that allow to divide up the parts of a page. The names of these elements indicate the kind of content,for example, header for the top of the page and footer for the bottom.
-+ ## article element represents any part of the page can satnd alone or syndicated, we can use article inside article and we can use article for a long text for example or divide it into several article.
++ ## article element represents any part of the page can stand alone or syndicated, we can use article inside article and we can use article for a long text for example or divide it into several article.
 + ## When the \<aside> element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning.
 + ## When the \<aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page.
 + ## The \<section> element groups related content together, and each section would have its own heading.
@@ -62,16 +62,16 @@
 # Chapter 18:
 # Question to ask before creating website:
 + # Who is the Site For?
-+ ## you have to spicify age, country, areas, education level, for men or women or mixed and the kind of devices that access the site.
++ ## you have to specify age, country, areas, education level, for men or women or mixed and the kind of devices that access the site.
 + # Why People Visit your Website?
-+ ## for entertainment or to achieve goal, personal or professionl.
++ ## for entertainment or to achieve goal, personal or professional.
 + # What Your Visitors are Trying to Achieve?
-## you can't satisfy all visotors but you need to put something motivate your visotors to continue in your site.
+## you can't satisfy all visitors but you need to put something motivate your visitors to continue in your site.
 # What Information Your Visitors Need?
-## put information from many recources, arrange it and keep it easy to find by users.
+## put information from many resources, arrange it and keep it easy to find by users.
 + # How Often People Will Visit Your Site?
 + ## when you know the answer, then you know when you have to update, for example news websites have to update minute by minute.
-+ # After you know the answeres, now you have to put a map for your site and organize all information you collect and how to build your site, you can use wireframe {simple sketch of the key information that needs to go on each page of a site}.
++ # After you know the answers, now you have to put a map for your site and organize all information you collect and how to build your site, you can use wireframe {simple sketch of the key information that needs to go on each page of a site}.
 
 + # Getting your message across using design:
 + ## The aim of the visual design is to communicate, organizing and prioritizing help to understand where the importance and how to read the site.
@@ -112,10 +112,10 @@
 ## Method: is how to do the event.
 # How web browsers see the web page?
 ## 1- Receive a page as html code.
-## 2-  Creat a model of the page and store it in the memory.
-## 3- Use rendiring engine to show the page on screen.
+## 2- Create a model of the page and store it in the memory.
+## 3- Use rendering engine to show the page on screen.
 
-# How to make a web page using html,CSS and JavaScript?
+# How to make a web page using html, CSS and JavaScript?
 ## first we write the html code wich consider like structure of the page, after that we define how contents will appear by CSS{presentation layer}, and finalley interactive layer wich is JavaScript, These three layers form the basis of a popular approach to building web pages called progressive enhancement. 
 
 + ## It is best to keep JavaScript code in its own JavaScript file. 
