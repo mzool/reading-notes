@@ -1,4 +1,4 @@
- # HTML
+# HTML
 # Chapter 1:
 # How HTML structure the pages?
 ## It use an elements each one of them has an opining tag and closing tag for example <h> this one is opining tag and this one is closing tag </h>, Tags act like containers. They tell something about the  information that between open tag and closing tag.
@@ -42,7 +42,7 @@
   meta| in the head element, contains information about the page
   description| descripe the page
 
- <hr>
+ 
   
   # Chapter 17 :
 # HTML5:
@@ -58,7 +58,7 @@
 + ## The new elements provide clearer code (compared with using multiple \<div> elements).
 + ## Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
 + ## To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed.
-<hr>
+
 
 # Chapter 18:
 # Question to ask before creating website:
@@ -87,7 +87,7 @@
 + ##  Design is about communication. 
 + ## You can differentiate between pieces of information using size, color, and style.
 + ##  You can use grouping and similarity to help simplify the information you present.
-<hr>
+
 
 # JavaScript:
 
@@ -99,12 +99,12 @@
 - ## Define the goal
 - ## Design the script      
 - ## Start coding
-<hr>
+
 
 + ## Vocabulary: The words that computers understand 
 + ## Syntax: How you put those words together to create instructions computers can follow
 + ## Computers solve problems programmatically; they follow series of instructions, one after another
-<hr>
+
 
 # How computers undrstand the world?
 ## computers define everything as an object, every object have its properties, events and methods.
