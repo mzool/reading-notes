@@ -4,12 +4,12 @@
 ## It use an elements each one of them has an opining tag and closing tag for example <h> this one is opining tag and this one is closing tag </h>, Tags act like containers. They tell something about the  information that between open tag and closing tag.
 
 # Tags:
- ## To write a tag start with left angle bracket "<" then write the charachter, then right angle breacket ">". For closing tag put "/" before the charachter.
+## To write a tag start with left angle bracket "<" then write the charachter, then right angle breacket ">". For closing tag put "/" before the charachter.
 
- # Attributes:
- ## Give additional about the contents in the tags.
- ## How to write attributes?
- ## after the character in the opining tag write the attribute's name then write "=" then the value you want between "" double quotation,
+# Attributes:
+## Give additional about the contents in the tags.
+## How to write attributes?
+## after the character in the opining tag write the attribute's name then write "=" then the value you want between "" double quotation,
 ##  \<p lang="en-us">Paragraph in English\</p>.
 
 # Every html code contains :
