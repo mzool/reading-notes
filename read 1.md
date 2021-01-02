@@ -67,7 +67,7 @@
 + ## for entertainment or to achieve goal, personal or professionl.
 + # What Your Visitors are Trying to Achieve?
 ## you can't satisfy all visotors but you need to put something motivate your visotors to continue in your site.
-+ # What Information Your Visitors Need?
+# What Information Your Visitors Need?
 ## put information from many recources, arrange it and keep it easy to find by users.
 + # How Often People Will Visit Your Site?
 + ## when you know the answer, then you know when you have to update, for example news websites have to update minute by minute.
