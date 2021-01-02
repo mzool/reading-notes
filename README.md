@@ -4,7 +4,7 @@
 
 Table of contents:
 
- {Read 1}(https://mzool.github.io/reading-notes/read 1) | 
+ [Read 1](https://mzool.github.io/reading-notes/read 1) | 
  ----   | ----- 
  Read 2 | 
  Read 3 | 
