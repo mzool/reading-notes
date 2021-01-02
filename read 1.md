@@ -44,7 +44,7 @@
 
  
   
-  # Chapter 17 :
+# Chapter 17 :
 # HTML5:
 + ## html5 introduces a new set of elements that allow to divide up the parts of a page. The names of these elements indicate the kind of content,for example, header for the top of the page and footer for the bottom.
 + ## article element represents any part of the page can satnd alone or syndicated, we can use article inside article and we can use article for a long text for example or divide it into several article.
@@ -59,26 +59,25 @@
 + ## Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
 + ## To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed.
 
-
 # Chapter 18:
 # Question to ask before creating website:
 + # Who is the Site For?
- ## you have to spicify age, country, areas, education level, for men or women or mixed and the kind of devices that access the site.
- + # Why People Visit your Website?
- ## for entertainment or to achieve goal, personal or professionl.
- + # What Your Visitors are Trying to Achieve?
- ## you can't satisfy all visotors but you need to put something motivate your visotors to continue in your site.
- + # What Information Your Visitors Need?
++ ## you have to spicify age, country, areas, education level, for men or women or mixed and the kind of devices that access the site.
++ # Why People Visit your Website?
++ ## for entertainment or to achieve goal, personal or professionl.
++ # What Your Visitors are Trying to Achieve?
+## you can't satisfy all visotors but you need to put something motivate your visotors to continue in your site.
++ # What Information Your Visitors Need?
  ## put information from many recources, arrange it and keep it easy to find by users.
- + # How Often People Will Visit Your Site?
- ## when you know the answer, then you know when you have to update, for example news websites have to update minute by minute.
- + # After you know the answeres, now you have to put a map for your site and organize all information you collect and how to build your site, you can use wireframe {simple sketch of the key information that needs to go on each page of a site}.
++ # How Often People Will Visit Your Site?
++ ## when you know the answer, then you know when you have to update, for example news websites have to update minute by minute.
++ # After you know the answeres, now you have to put a map for your site and organize all information you collect and how to build your site, you can use wireframe {simple sketch of the key information that needs to go on each page of a site}.
 
- + # Getting your message across using design:
- ## The aim of the visual design is to communicate, organizing and prioritizing help to understand where the importance and how to read the site.
- + # Visual hierarchy: most people skim the site to find something important then they read it; so Visual hierarchy helps users find what they are looking for using {color, size or font type}.
- + # grouping and Similarity: organize visual elements ito group, Grouping related pieces of information together can make a design easier to comprehend.
- + # Designing Navigation: good navegation let people understand the site about what and make them know where to go. Good navigation properties: concise, selective, interactive, consistance, context and clear.
++ # Getting your message across using design:
++ ## The aim of the visual design is to communicate, organizing and prioritizing help to understand where the importance and how to read the site.
++ # Visual hierarchy: most people skim the site to find something important then they read it; so Visual hierarchy helps users find what they are looking for using {color, size or font type}.
++ # grouping and Similarity: organize visual elements ito group, Grouping related pieces of information together can make a design easier to comprehend.
++ # Designing Navigation: good navegation let people understand the site about what and make them know where to go. Good navigation properties: concise, selective, interactive, consistance, context and clear.
 
 # Summary:
 + ## It's important to understand who your target audience.
