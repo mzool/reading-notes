@@ -20,7 +20,7 @@ Element | name | influence
 \<dfn> | defining instance| for defining a new element
 \<address>| address| for contact details of the owner
 \<ins> | insert| to show the element that inserted to the page
-\<del> | delete | to show the element that deleted
+\<del> | \delete | to show the element that deleted
 \<s>   |  --- | to indicate the element that no longer accurate
 
 
