@@ -11,6 +11,10 @@ Element | name | influence
 \<sub> | subscript | contain characters that should be **subscript**
 \<br> |  \<br>   | add a line break inside the middle of a paragraph
 \<hr> |\<hr> | to creat a break between themes 
+
+
+Element| name|influence
+---|---|---
 \<strong> |strong| give a like bold appearance to the important words
 \<em> | em | indicates emphasis that subtly changes the meaning of a sentence.
 \<blockquote> | quotation | long quote such like a whole paragraph
@@ -51,7 +55,7 @@ link|\<link>|use to tell the browser to look at CSS file and connect it with htm
 href|href|This specifies the path to the CSS file
 type|  |specifies the type of document being linked to
 rel|   | specifies the relationship between the HTML page and the file it is linked to
-/<hr>|  |
+
 
 # Use **style** to write CSS code inside html file.
 # How Css Rules Cascade: 
