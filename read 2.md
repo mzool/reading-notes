@@ -3,7 +3,7 @@
 
 
 Element | name | influence
------------ | ----------- | ------------------------------
+--------| -----| ------------------------------
 \<h1> to \<h6> | Headings | give different font sizes larger one is \<h2>
 \<B>| bold | bold appearance
 \<i> |italic | italic appearance
@@ -14,7 +14,7 @@ Element | name | influence
 
 
 Element| name|influence
----|---|---
+-------|-----|---
 \<strong> |strong| give a like bold appearance to the important words
 \<em> | em | indicates emphasis that subtly changes the meaning of a sentence.
 \<blockquote> | quotation | long quote such like a whole paragraph
