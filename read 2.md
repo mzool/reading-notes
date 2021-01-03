@@ -3,7 +3,7 @@
 
 
 Element | name | influence
----------| ---------| ---------
+---| ---|---
 \<h1> to \<h6> | Headings | give different font sizes larger one is \<h2>
 \<B>| bold | bold appearance
 \<i> |italic | italic appearance
@@ -21,7 +21,7 @@ Element | name | influence
 \<address>| address| for contact details of the owner
 \<ins> | insert| to show the element that inserted to the page
 \<del> | delete | to show the element that deleted
-\<s>   |  ------ | to indicate the element that no longer accurate
+\<s>   |  --- | to indicate the element that no longer accurate
 
 
 
