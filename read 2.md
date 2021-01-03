@@ -48,10 +48,10 @@ Element | name | influence
 
 link|\<link>|use to tell the browser to look at CSS file and connect it with html file
 ----|----|----
-href|href|**This specifies the path to the CSS file**
+href|href|This specifies the path to the CSS file
 type|  |specifies the type of document being linked to
 rel|   | specifies the relationship between the HTML page and the file it is linked to
-
+/<hr>|  |
 
 # Use **style** to write CSS code inside html file.
 # How Css Rules Cascade: 
