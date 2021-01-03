@@ -3,7 +3,7 @@
 
 
 Element | name | influence
---------| -----| ---------
+----------| --------| -----------
 \<h1> to \<h6> | Headings | give different font sizes larger one is \<h2>
 \<B>| bold | bold appearance
 \<i> |italic | italic appearance
@@ -11,10 +11,6 @@ Element | name | influence
 \<sub> | subscript | contain characters that should be **subscript**
 \<br> |  \<br>   | add a line break inside the middle of a paragraph
 \<hr> |\<hr> | to creat a break between themes 
-
-
-Element| name|influence
--------|-----|---------
 \<strong> |strong| give a like bold appearance to the important words
 \<em> | em | indicates emphasis that subtly changes the meaning of a sentence.
 \<blockquote> | quotation | long quote such like a whole paragraph
@@ -25,7 +21,7 @@ Element| name|influence
 \<address>| address| for contact details of the owner
 \<ins> | insert| to show the element that inserted to the page
 \<del> | delete | to show the element that deleted
-\<s>   |  --- | to indicate the element that no longer accurate
+\<s>   |  ------ | to indicate the element that no longer accurate
 
 
 
