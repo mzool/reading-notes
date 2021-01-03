@@ -1,8 +1,9 @@
+# Html:
 # Chapter Two:
 
 Element | name | influence
 ---| ---|---
-h1 to \h6 | Headings | give different font sizes larger one is \<h2>
+h1 to h6 | Headings | give different font sizes larger one is \<h2>
 B| bold | bold appearance
 i |italic | italic appearance
 sup| superscript | contain characters that should be superscript such
@@ -79,3 +80,39 @@ rel|   | specifies the relationship between the HTML page and the file it is lin
 ## Strings: letters and other characters. 
 ## Numeric: numbers.
 ## Boolean: true and false
+# RULES FOR NAMING VARIABLES :
+## Not started with a number.
+## Don't use periode or dash in variable name.
+## No keywords.
+## All variables are case sensitive.
+## If your variable made from many names use capital letter with every one.
+# Arrays are type of variable that store a list of values.
+## How to creat array? here an example:
+## var colors;
+## colors ['white', 'black', ' custom'];
+## var el document.getElementByld('col ors');
+## el . textContent = col ors[O]; 
+## Every item in the array has a number that called index number, the numbering start from zero not one, if you want to access or update a value in the array you have to write the array name followed with the item index number.
+# An expression evaluates into a single value, it can assign value to a variable or use multi variables with expression to return a singl value.
+## Expressions rely on things called operators; they allow programmers to create a single value from one or more values. 
+## Arithmitic operator: its mathmatical operators using with numbers.
+## String's operator: use + to join the strings togethers.
+
+# Chapter 4:
+# Decition making: many time in the script there are a two or more wat to take, which one to take is the decition making, and ther are two components to a decition: or conditional statement or a value.
+## comparisom operator give a boolean value.
+
+==|equal
+---|---
+\===|strict equal (value+type)
+">"|grater than
+"<"|lower than
+"<=|lower or equal than
+">="|greater or equal than
+
+# Logical operator"
+
+&&| and, give true if both side are true
+----|----
+"||"|or, give true if one of the both is true
+"!"|not, opposite the value
