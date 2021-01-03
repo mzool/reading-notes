@@ -2,13 +2,13 @@
 
 
 
- Element | name | influence
- --- | --- | ---
- \<h1> to \<h6> | Headings | give different font sizes larger one is \<h2>
- \<B>| bold | bold appearance
- \<I> |italic | italic appearance
- \<sup> | superscript | contain characters that should be **superscript** such
- \<sub> | subscript | contain characters that should be **subscript**
+Element | name | influence
+--- | --- | ---
+\<h1> to \<h6> | Headings | give different font sizes larger one is \<h2>
+\<B>| bold | bold appearance
+\<I> |italic | italic appearance
+\<sup> | superscript | contain characters that should be **superscript** such
+\<sub> | subscript | contain characters that should be **subscript**
 \<br> |  \<br>   | add a line break inside the middle of a paragraph
 \<hr> |\<hr> | to creat a break between themes 
 \<strong> |strong| give a like bold appearance to the important words
@@ -21,7 +21,7 @@
 \<address>| address| for contact details of the owner
 \<ins> | insert| to show the element that inserted to the page
 \<del> | delete | to show the element that deleted
-\<s> |  --- | to indicate the element that no longer accurate
+\<s>   |  --- | to indicate the element that no longer accurate
 
 
 
