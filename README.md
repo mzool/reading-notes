@@ -6,7 +6,7 @@ Table of contents:
 
  [Read 1](https://mzool.github.io/reading-notes/read 1) | 
  ----   | ----- 
- Read 2 | 
+ [Read 2](https://mzool.github.io/reading-notes/read%202) | 
  Read 3 | 
  Read 4 |
  Read 5 |
