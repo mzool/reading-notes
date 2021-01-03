@@ -1,4 +1,7 @@
 # _Cahpter Two_:
+
+
+
 Element | name | influence
 ------- | -----| --------
 \<h1> to \<h6>| Headings| give different font sizes larger one is \<h2>
@@ -19,6 +22,7 @@ Element | name | influence
 \<ins>|insert|to show the element that inserted to the page
 \<del>|delete|to show the element that deleted
 \<s>|   | to indicate the element that no longer accurate
+
 
 
 ## white space collapsing: when write more than one space bar between the words, bowsers only appear one space.
