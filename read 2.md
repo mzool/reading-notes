@@ -107,12 +107,15 @@ rel|   | specifies the relationship between the HTML page and the file it is lin
 \===|strict equal (value+type)
 ">"|grater than
 "<"|lower than
-"<=|lower or equal than
+<=|lower or equal than
 ">="|greater or equal than
 
-# Logical operator"
+# Logical operators:
 
 &&| and, give true if both side are true
 ----|----
-"||"|or, give true if one of the both is true
+"\||"|or, give true if one of the both is true
 "!"|not, opposite the value
+
+# If-else statement:
+## if statement check for a condition, if its true then the first bock excute, if it is false the second block excute.
