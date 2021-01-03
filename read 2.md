@@ -3,7 +3,7 @@
 
 
 Element | name | influence
-----------| --------| -----------
+---------| ---------| ---------
 \<h1> to \<h6> | Headings | give different font sizes larger one is \<h2>
 \<B>| bold | bold appearance
 \<i> |italic | italic appearance
