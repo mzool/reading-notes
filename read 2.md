@@ -102,8 +102,9 @@ rel|   | specifies the relationship between the HTML page and the file it is lin
 # Decition making: many time in the script there are a two or more wat to take, which one to take is the decition making, and ther are two components to a decition: or conditional statement or a value.
 ## comparisom operator give a boolean value.
 
-==|equal
+symbol|information
 ---|---
+==|equal
 \===|strict equal (value+type)
 ">"|grater than
 "<"|lower than
@@ -112,9 +113,10 @@ rel|   | specifies the relationship between the HTML page and the file it is lin
 
 # Logical operators:
 
-&&| and, give true if both side are true
+symbol|information
 ----|----
-"\||"|or, give true if one of the both is true
+&&| and, give true if both side are true
+"\|\|"|or, give true if one of the both is true
 "!"|not, opposite the value
 
 # If-else statement:
