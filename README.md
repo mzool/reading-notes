@@ -8,7 +8,7 @@ Table of contents:
  ----   | ----- 
  [Read 2](https://mzool.github.io/reading-notes/read%202) | 
  [Read 3](https://mzool.github.io/reading-notes/read%203) | 
- Read 4 |
+ [Read 4]( https://mzool.github.io/reading-notes/read4) |
  Read 5 |
  Read 6 |
  Read 7 | 
