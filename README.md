@@ -10,7 +10,7 @@ Table of contents:
  [Read 3](https://mzool.github.io/reading-notes/read%203) | 
  [Read 4]( https://mzool.github.io/reading-notes/read4) |
  [Read 5](https://mzool.github.io/reading-notes/read5) |
- Read 6 |
+ [Read 6](https://mzool.github.io/reading-notes/read6) |
  Read 7 | 
  Read 8 |
  Read 9  |
