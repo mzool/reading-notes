@@ -29,4 +29,7 @@
 ## getEl ementsByClassName( 1class 1 ) Selects one or more elements given the value of their cl ass attribute.  
 ## getEl ementsByTagName( 1tagName 1) Selects all elements on the page with the specified tag name. 
 ## querySelectorAll ( 1css select) Uses CSS selector syntax to select one or more elements and returns all of those that match.
+## When a DOM method can return more than one element, it returns a Nodelist (even if it only finds one matching element). 
+## There are two ways to select an element from a Nodelist: The item() method and array syntax. Both require the index number of the element you want, ARRay is faster to use. 
+## traversing the DOM: When you have an element node, you can select another element in relation to it.
 ## 
