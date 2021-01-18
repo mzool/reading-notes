@@ -16,7 +16,7 @@ Table of contents:
  [Read 9](https://mzool.github.io/reading-notes/read9)  |
  [Read 10](https://mzool.github.io/reading-notes/read10) |
   [Read 11](https://mzool.github.io/reading-notes/read11)|
- Read 12 |
+  [Read 12](https://mzool.github.io/reading-notes/read12) |
  Read 13 |
  Read 14 |
  Read 15 |
